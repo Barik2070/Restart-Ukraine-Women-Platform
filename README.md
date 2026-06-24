@@ -6,6 +6,11 @@
 
 https://barik2070.github.io/Restart-Ukraine-Women-Platform/
 
+## Figma
+
+- Публічний Figma Site: https://posts-panda-92111585.figma.site/
+- Редагований Figma Design: https://www.figma.com/design/zPflkGlDKz4acoSV3FUAVn/Restart-Ukraine-Women-Platform-%E2%80%94-Editable-Design
+
 ## Реалізовано
 
 - адаптивна головна сторінка;
@@ -16,6 +21,8 @@ https://barik2070.github.io/Restart-Ukraine-Women-Platform/
 - прототип особистого кабінету;
 - UX-концепція Telegram-бота;
 - UI-kit, moodboard і design guide.
+
+Анкета працює як UX-прототип: дані не надсилаються і не зберігаються до підключення CRM/backend. Реальні контактні канали ще не надані, тому в інтерфейсі використано чесний стан «Контакт уточнюється».
 
 ## Перевірені viewport-и
 
