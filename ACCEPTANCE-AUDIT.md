@@ -33,10 +33,11 @@
 | Вимога | Чому доказ недостатній | Що потрібно |
 |---|---|---|
 | Tablet 768 px та laptop 1280 px | Browser QA на GitHub Pages: обидва viewport-и перевірені, tablet-навігація веде на сторінку програм | Виконано |
-| Figma-файл з компонентами | У робочій області немає Figma-файлу/URL і доступного Figma-конектора | Надати Figma URL або дозволити імпорт у Figma |
+| Figma Make інтерактивний прототип | `https://www.figma.com/make/b3y3bTYMCAVINZUKB8w6F8/Untitled` — Version 1, 12 сторінок, 6 code files; desktop/mobile preview і перехід до «Програм» перевірені | Виконано як Figma Make |
+| Класичний Figma Design-файл з компонентами | Наданий URL є Figma Make code prototype, а не Figma Design library `.fig` | Створити окремий Figma Design-файл, якщо потрібен handoff у вигляді frames/components |
 | Реальні контактні адреси | Поточні `@restartwomen.org` є продуктовими placeholder-адресами | Надати підтверджені email/Telegram |
 | Фактичне надсилання анкети | MVP реалізує UX і success state без backend/CRM | Надати endpoint або CRM-інтеграцію |
 
 ## Висновок
 
-UX/UI-прототип, названі MVP-екрани, публікація та основні browser-сценарії підтверджені. Остаточне продуктове приймання потребує Figma-артефакту та реальних зовнішніх інтеграцій/контактів.
+UX/UI-прототип, названі MVP-екрани, публікація, browser-сценарії та Figma Make Version 1 підтверджені. Остаточне продуктове приймання потребує реальних зовнішніх інтеграцій/контактів; класичний Figma Design-файл потрібен лише якщо очікується окрема бібліотека frames/components.
