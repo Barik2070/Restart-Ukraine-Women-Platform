@@ -34,6 +34,7 @@
 |---|---|---|
 | Tablet 768 px та laptop 1280 px | Browser QA на GitHub Pages: обидва viewport-и перевірені, tablet-навігація веде на сторінку програм | Виконано |
 | Figma Make інтерактивний прототип | `https://www.figma.com/make/b3y3bTYMCAVINZUKB8w6F8/Restart-Ukraine-Women-Platform` — Version 4, 12 сторінок, 6 code files; desktop/mobile preview, навігація, 14 груп анкети та success state перевірені | Виконано як Figma Make |
+| Публікація Figma Make | `https://posts-panda-92111585.figma.site/` — публічний URL відкрито й перевірено; підтверджені факти присутні, непідтверджені дані відсутні | Виконано |
 | Фактологічна чистота Figma Make | Version 3 видаляє непідтверджені статистики, hotline і названих партнерів; залишає 100–150 учасниць, 6 місяців, 3 треки, план 30–90 днів і нейтральні категорії партнерів | Виконано |
 | Чесний демо-стан анкети Figma Make | Version 4 прямо повідомляє, що дані не надсилаються і не зберігаються до підключення CRM | Виконано |
 | Класичний Figma Design-файл з компонентами | Наданий URL є Figma Make code prototype, а не Figma Design library `.fig` | Створити окремий Figma Design-файл, якщо потрібен handoff у вигляді frames/components |
